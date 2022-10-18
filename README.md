@@ -1,0 +1,3 @@
+# IOptions
+
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-6.0
